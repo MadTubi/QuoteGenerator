@@ -1,0 +1,49 @@
+body{
+    background-color: #ead7c3;
+}
+
+#myTitle{
+    text-align: center;
+    font-size: 65px;
+}
+
+#container{
+    background-color: #dce0d9;
+    width: 50%;
+    margin:  20px auto;
+    padding: 10px;
+    word-wrap: break-word;
+    
+}
+
+#child{
+    font-size: 65px;
+    text-align: left;
+}
+#author{
+    text-align: right;
+    font-size: 65px;
+}
+
+#num{
+    text-align: center;
+    font-size: 65px;
+}
+
+footer{
+    background-color: #fbf6ef;
+    text-align: center;
+
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+
+}
+
+#colorBar{
+    background-color: #fbf6ef;
+    width: 100%;
+    
+
+}
